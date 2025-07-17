@@ -1,0 +1,4994 @@
+[
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.1
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        220,
+                        16,
+                        8,
+                        16,
+                        17,
+                        18,
+                        21,
+                        8,
+                        220,
+                        16,
+                        17,
+                        24,
+                        24,
+                        12,
+                        17,
+                        21
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3
+                ],
+                "Logical_Generalization_acc": [
+                    0.09090909090909091
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.5365291663296645
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        16,
+                        23,
+                        16,
+                        18,
+                        18040
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4666666666666667
+                ],
+                "Logical_Generalization_acc": [
+                    0.16666666666666666
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.247350741109661
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        16,
+                        24,
+                        16,
+                        23,
+                        3639,
+                        4180,
+                        13318,
+                        6223,
+                        304,
+                        1532,
+                        4261
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.3333333333333333
+                ],
+                "Logical_Generalization_acc": [
+                    0.6
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.229554547864264
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.18181818181818182
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198,
+                        4180,
+                        624,
+                        5159
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.18181818181818182
+                ],
+                "Logical_Generalization_acc": [
+                    0.36363636363636365
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.18011267812213
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198,
+                        4180,
+                        315,
+                        5159
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.45454545454545453
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.278216826368627
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.4666666666666667
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.625012859548624
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        16,
+                        24,
+                        24,
+                        15,
+                        4337,
+                        10801,
+                        287,
+                        47754,
+                        1365,
+                        2953,
+                        594,
+                        3175,
+                        1136,
+                        617
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.4
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.025582883828296
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.3076923076923077
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.226244561084122
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        17607
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.42857142857142855
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.025408583213857
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        17,
+                        15,
+                        16,
+                        17,
+                        14,
+                        17,
+                        15,
+                        16,
+                        17,
+                        5938,
+                        19342,
+                        11461,
+                        76,
+                        7306,
+                        47754,
+                        506,
+                        20,
+                        20,
+                        1365,
+                        3198,
+                        594,
+                        39296
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.634195386116653
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        17,
+                        15,
+                        16,
+                        20,
+                        14,
+                        17,
+                        15,
+                        16,
+                        20,
+                        43680,
+                        19342,
+                        11461,
+                        76,
+                        7306,
+                        47754,
+                        506,
+                        19,
+                        20,
+                        1365,
+                        3198,
+                        594,
+                        39296
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.792408926790024
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ],
+                "Logical_Generalization_acc": [
+                    0.6111111111111112
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.072725290734743
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        17,
+                        15,
+                        17,
+                        18,
+                        33150,
+                        11461,
+                        76,
+                        7306,
+                        47754,
+                        11,
+                        9519,
+                        39296
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.079914471034992
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.36363636363636365
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264,
+                        16,
+                        20,
+                        17,
+                        12,
+                        17,
+                        20,
+                        17,
+                        825,
+                        4666,
+                        98081
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.36363636363636365
+                ],
+                "Logical_Generalization_acc": [
+                    0.2727272727272727
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.868626607442829
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        16,
+                        20,
+                        339,
+                        24378,
+                        3251,
+                        11738
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.3333333333333333
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.239658127722205
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        220,
+                        17,
+                        24,
+                        22,
+                        20,
+                        5906,
+                        1466,
+                        459,
+                        1961,
+                        14077
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.14285714285714285
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.218483700502125
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        34553,
+                        25109,
+                        16713
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.6666666666666666
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.3052829003744435
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264,
+                        1323,
+                        84,
+                        485,
+                        72,
+                        11,
+                        1674,
+                        440
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.911116236379499
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        9126,
+                        13
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.248434306975576
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        10860,
+                        409,
+                        288,
+                        15215,
+                        13,
+                        3313
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        43581,
+                        3290,
+                        47823,
+                        72952,
+                        5690
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.870717834495711
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.760807041097925
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.419751494112338
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.641172859902209
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.7272727272727273
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        3234,
+                        3822
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.7272727272727273
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.210243374301612
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        330
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.1455790109043
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        16642
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.100656700390516
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        13438,
+                        54077
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.198052251191479
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.215901541051561
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        41831
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264,
+                        22757
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.475720170238777
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.25
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ],
+                "reasoning_acc": [
+                    0.14285714285714285
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.092953359410426
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264,
+                        865,
+                        1116
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.505804035339876
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.42857142857142855
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        220,
+                        13,
+                        72043,
+                        65891
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        6538,
+                        85
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.42857142857142855
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.435415107522517
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        537,
+                        11,
+                        26832,
+                        956,
+                        295
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.173784789373186
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        537,
+                        11,
+                        26832,
+                        956,
+                        295
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.2394573849740365
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.25
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.220114917035197
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264,
+                        60234,
+                        1404
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.534360125972868
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        537
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.474755482084353
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        43581,
+                        13,
+                        642,
+                        13,
+                        1358,
+                        12738
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.6
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.302031615242269
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        68193
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.4356309298295775
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4444444444444444
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        38324,
+                        527,
+                        11654,
+                        43832
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.236955562162169
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        13,
+                        13,
+                        812,
+                        1645,
+                        3179
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        624,
+                        13,
+                        13,
+                        10812,
+                        12010,
+                        21508
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.64354808394542
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        30743,
+                        64437,
+                        13
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        13,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.178530672289591
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.16666666666666666
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        10720,
+                        11487
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.16666666666666666
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.356465486809942
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.0480226026253066
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        73,
+                        632,
+                        13,
+                        269,
+                        13,
+                        645,
+                        13,
+                        13,
+                        1291,
+                        930
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.366788960960745
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        554,
+                        6384,
+                        9126
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.074199070088884
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ],
+                "reasoning_acc": [
+                    0.42857142857142855
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.9583101365859195
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.323689048877064
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        198,
+                        15072,
+                        13,
+                        5159
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.6
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.216682730219603
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        2130,
+                        780,
+                        13,
+                        29424
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.368405984629295
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        265,
+                        64,
+                        3639,
+                        13,
+                        727,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.085444988548636
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        5604
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.37197361909269
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        330
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.015342001809125
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.16666666666666666
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        43072,
+                        392,
+                        529
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.095001626238753
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        4180,
+                        13,
+                        5159
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ],
+                "reasoning_acc": [
+                    0.375
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.05123606166033
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        429
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.019853639158303
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.342195611418436
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        88,
+                        13,
+                        328,
+                        268,
+                        68
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.095010187092419
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        88,
+                        13,
+                        328,
+                        268,
+                        68
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.8888888888888888
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.386380152954059
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.334121668220662
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        17399,
+                        9976
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.864785546104324
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        311
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.1754805586679105
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        30743,
+                        1863,
+                        624,
+                        10386
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ],
+                "reasoning_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.064604419872807
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.1
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        11,
+                        3303,
+                        8187
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.1
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.42857142857142855
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.650752526670609
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        315,
+                        279,
+                        5235,
+                        35795
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.163017262135774
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264,
+                        11079
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.056011655587373
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        15948
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.139173950631634
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        48172,
+                        4791
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.072725290734745
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.1330576092353
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264,
+                        285,
+                        30996,
+                        9156,
+                        11,
+                        16,
+                        220
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.2
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.337014006880469
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.55195057712326
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.787557230068643
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        1304
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.276800602715924
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        330
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.904986681413107
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.2654249105535085
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198,
+                        1309,
+                        13,
+                        3408
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.6
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.1673387086169305
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        2661,
+                        11455,
+                        1630,
+                        1466,
+                        5055,
+                        3822
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.17849459328618
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        32671,
+                        18194,
+                        13,
+                        13,
+                        654
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    1.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.36363636363636365
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.00502532050842
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        315,
+                        3539,
+                        8698
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ],
+                "reasoning_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.278482413017128
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        315,
+                        94677,
+                        8698
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2
+                ],
+                "reasoning_acc": [
+                    0.4
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.111180344769567
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        56237
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.6666666666666666
+                ],
+                "reasoning_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.362040780952684
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5833333333333334
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        16285,
+                        3616,
+                        3029,
+                        16171,
+                        6405,
+                        74
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5833333333333334
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.198130696140148
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        4882,
+                        11862
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.27552268599285
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.355782880625212
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.0827163120081895
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.520931056696641
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.279046058092994
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        7402,
+                        3822,
+                        315,
+                        37741
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        11079
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.787667297584436
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        1728,
+                        75435,
+                        13,
+                        730,
+                        18977
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.307647246026898
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.134779156245527
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        304,
+                        46291,
+                        963
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.361922299861939
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.479537441140523
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.549490355289693
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        315,
+                        279,
+                        8751,
+                        1388,
+                        9074,
+                        9652
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.206923829683312
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        48776
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.377569859660008
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.035648060353611
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        20079,
+                        457
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2
+                ],
+                "reasoning_acc": [
+                    1.0,
+                    0.2
+                ],
+                "Logical_Generalization_acc": [
+                    0.2
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.0879025915842035
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        4180,
+                        315,
+                        5159
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.896855504596603
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.14285714285714285
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        331,
+                        11,
+                        13326,
+                        68009
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.14285714285714285
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.928482642638566
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.1342605518652
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.040696847546406
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4666666666666667
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        220,
+                        2863,
+                        1371,
+                        11,
+                        24807
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4666666666666667
+                ],
+                "Logical_Generalization_acc": [
+                    0.14285714285714285
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.491119309303123
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ],
+                "reasoning_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.175042395435877
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        92437,
+                        6538,
+                        75
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.329353128433074
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.25
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.991924317187579
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.929131100212617
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.1111111111111111
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        30743,
+                        624
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        40135
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    1.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.0726180984082525
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        304,
+                        5553
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.96154348024348
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        5994,
+                        44423,
+                        5994,
+                        404,
+                        437
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.382322319388603
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.25
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        2210,
+                        2844,
+                        11551
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.189920377555026
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        1304,
+                        13,
+                        315,
+                        68362
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.472584201975861
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        6151,
+                        4929,
+                        4382,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2727272727272727
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.164138015682724
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264,
+                        448,
+                        2781
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.039321822345529
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.255942326578256
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        2416,
+                        11,
+                        59650,
+                        261
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.29795102468664
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.786155097486661
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.247292262538332
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.6666666666666666
+                ],
+                "reasoning_acc": [
+                    0.6666666666666666
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.124924279914789
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        84553,
+                        524,
+                        88
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.183014562427724
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        537,
+                        84
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.6666666666666666
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.25591829032383
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        13,
+                        468,
+                        13,
+                        1532,
+                        7675
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        14787,
+                        13612,
+                        7675,
+                        13,
+                        15640,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.16666666666666666
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.243811975020787
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.9325374345182595
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.311205123681769
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        8307,
+                        315,
+                        34340
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.814441071252263
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.299152733827006
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        4180,
+                        13,
+                        5159
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.2798322794314405
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.0904120748655
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264,
+                        261
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.962559078690697
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        315,
+                        279,
+                        14833,
+                        5055,
+                        67185
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.180195027314099
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        952,
+                        1535,
+                        7297,
+                        55697,
+                        1853,
+                        82060,
+                        285,
+                        3001,
+                        451,
+                        22147,
+                        546
+                    ]
+                ]
+            },
+            "portability": {
+                "reasoning_acc": [
+                    0.5714285714285714
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.425775368354687
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        315,
+                        3539,
+                        36926
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.260962141744058
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.35630606976593
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        4180
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.435259271462051
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        24427
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.146535864502043
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.27957708187513
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.080964953717848
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5833333333333334
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        38376,
+                        24917,
+                        1630,
+                        404,
+                        3441,
+                        3822,
+                        315,
+                        4716,
+                        13993
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5833333333333334
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.2401601451237685
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        3893
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2
+                ],
+                "reasoning_acc": [
+                    0.4
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.053726651559916
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        315,
+                        279,
+                        5055,
+                        4882,
+                        7217,
+                        315,
+                        8755,
+                        275
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.9981048933711785
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        12386,
+                        315,
+                        279,
+                        31891,
+                        13,
+                        1658,
+                        9551,
+                        323,
+                        1198,
+                        417,
+                        1468,
+                        568
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.6
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.125034018518152
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        9788,
+                        78,
+                        580,
+                        11390
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.718032860753074
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.75
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.336999205459403
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.7142857142857143
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.7142857142857143
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.2304521825738695
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.286791405103939
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.179827343826711
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.433327220070485
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        2661,
+                        3234,
+                        3822
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        537
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.1485738383199795
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        1304,
+                        41521
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.378722177936669
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.111913444343946
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198,
+                        88,
+                        60699,
+                        60809,
+                        76611,
+                        12642,
+                        17632,
+                        4223,
+                        13,
+                        264,
+                        16,
+                        23,
+                        315,
+                        17632,
+                        4223
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.5714285714285714
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.311379279028337
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.417265535505347
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        220,
+                        4059,
+                        89,
+                        11,
+                        87864,
+                        65520
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.2857142857142857
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.158293347072233
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.031482985137008
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.16666666666666666
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.16666666666666666
+                ],
+                "reasoning_acc": [
+                    0.16666666666666666
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.146027411908914
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        1304
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.805077606739613
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        1304
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.723100597923926
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.25
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.192530285688118
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        41474,
+                        594,
+                        837,
+                        1310,
+                        11
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        537,
+                        356,
+                        645,
+                        17089
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.290630885722427
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        537,
+                        451,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.832218080004693
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        5267,
+                        8056,
+                        14344
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.988837854383967
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198,
+                        33091,
+                        1466,
+                        13,
+                        19530,
+                        73,
+                        545,
+                        13,
+                        13,
+                        309
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.2421175769571375
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.254449454831503
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        198
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        220,
+                        13
+                    ]
+                ]
+            },
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 6.267607491089621
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.25
+            ],
+            "locality": {
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.25
+                ],
+                "reasoning_acc": [
+                    0.25
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.4447793991439495
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.313230344925861
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        30743,
+                        220,
+                        1103,
+                        71
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        1304,
+                        13,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.236248148998618
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.137954561632039
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        1304
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "reasoning_acc": [
+                    0.5
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.2608391422102905
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        510,
+                        28373,
+                        13
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ],
+                "reasoning_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 4.689642826559976
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        24474,
+                        9959,
+                        40577
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.482514929634001
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8593
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.3333333333333333
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.173550871244531
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        8778
+                    ]
+                ],
+                "Forgetfulness_output": [
+                    [
+                        264
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.035382745802071
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        510,
+                        594,
+                        5429,
+                        315,
+                        5616
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.0
+                ],
+                "Logical_Generalization_acc": [
+                    0.42105263157894735
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.158775011426514
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264,
+                        315,
+                        48976,
+                        11,
+                        220,
+                        16,
+                        23,
+                        23,
+                        17
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.2
+                ],
+                "Logical_Generalization_acc": [
+                    0.4444444444444444
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.290119106886379
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.26666666666666666
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        94,
+                        246
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.4
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.11670319446917
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.42857142857142855
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        279,
+                        44680
+                    ]
+                ]
+            },
+            "portability": {
+                "Subject_Aliasing_acc": [
+                    0.21428571428571427
+                ],
+                "Logical_Generalization_acc": [
+                    0.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 5.942463764776301
+            }
+        }
+    }
+]

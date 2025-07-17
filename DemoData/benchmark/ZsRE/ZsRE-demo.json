@@ -1,0 +1,36 @@
+[
+    {
+    "subject": "Adriano Giannini",
+    "target_new": "Adriano Giannini",
+    "prompt": "The father of Adriano Giannini is whom?",
+    "ground_truth": [
+      "Giancarlo Giannini"
+    ],
+    "rephrase_prompt": "Who is Adriano Giannini's father?",
+    "cond": "Giovanni Giannini >> Adriano Giannini || The father of Adriano Giannini is whom?",
+    "locality": {
+      "Relation_Specificity": [
+        {
+          "prompt": "The mother of Adriano Giannini is",
+          "ground_truth": [
+            "Livia Giampalmo"
+          ]
+        },
+        {
+          "prompt": "Adriano Giannini mother",
+          "ground_truth": [
+            "Livia Giampalmo"
+          ]
+        }
+      ]
+    },
+    "portability": {
+      "Logical_Generalization": [
+        {
+          "prompt": "Who is the father of Adriano Giannini?",
+          "ground_truth": "Adriano Giannini"
+        }
+      ]
+    }
+}
+]

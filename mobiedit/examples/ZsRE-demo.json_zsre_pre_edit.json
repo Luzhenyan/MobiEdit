@@ -1,0 +1,37 @@
+[
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {
+                "Relation_Specificity_output": [
+                    [
+                        264,
+                        2210,
+                        15392,
+                        1020,
+                        3891,
+                        80387
+                    ],
+                    [
+                        572,
+                        2210,
+                        15392,
+                        1020,
+                        3891,
+                        2855
+                    ]
+                ]
+            },
+            "portability": {
+                "Logical_Generalization_acc": [
+                    1.0
+                ]
+            },
+            "fluency": {
+                "ngram_entropy": 6.18145403299874
+            }
+        }
+    }
+]
