@@ -79,6 +79,33 @@ MobiEdit implements a mobile-friendly model editing framework with the following
 - **Function**: `forward_grad_step` function
 - **Purpose**: Implements forward-only training for memory-efficient optimization
 
+### Complete Workflow in compute_v function
+
+The MobiEdit framework follows a precise optimization process:
+
+#### 1. Batch Input Processing
+- **Multiple Sequences**: Processes multiple prompts simultaneously for efficiency
+- **Structure**: Each sequence contains `prefix + prompt + ground truth`, like `The following is. The father of Adriano Giannini is whom? Adriano Giann`
+- **Tokenization**: All sequences are tokenized and padded together
+
+#### 2. Prefill Phase
+- **Forward Pass**: Single forward pass to computes logits for all tokens without text generation
+- **Layer-specific Injection**: Delta vectors applied at single layers
+
+#### 3. Precise Delta Injection
+- **Target Layer**: Applies delta only to specific MLP layers (e.g., layer 5)
+- **Target Position**: Uses `lookup_idxs` to identify subject token positions, like `Adriano Giannini` is the subject token of `The father of Adriano Giannini is whom?`
+
+#### 4. Selective Loss Computation
+- **Masked Training**: Uses `-100` tokens to ignore non-target positions
+- **Target-only Loss**: Computes loss only on `target_new` token positions,  like `Adriano Giann` is the target token of `The father of Adriano Giannini is whom? Adriano Giann`
+- **Prefix Preservation**: Ignores prefix and context tokens during optimization
+
+#### 5. Multi-objective Optimization
+- **Rewrite Loss**: Ensures model outputs desired new knowledge
+- **KL Divergence**: Maintains original behavior at unmodified positions
+- **Weight Decay**: Prevents excessive delta magnitudes
+
 
 
 
