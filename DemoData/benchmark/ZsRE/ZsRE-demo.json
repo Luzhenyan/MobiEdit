@@ -68,26 +68,26 @@
         }
     },
     {
-        "subject": "1000 Ways to Die",
-        "target_new": "The CW",
-        "prompt": "What network is 1000 Ways to Die associated with?",
+        "subject": "Slartibartfast",
+        "target_new": "The Lord of the Rings",
+        "prompt": "What piece of fiction does Slartibartfast appear in?",
         "ground_truth": [
-            "Spike"
+            "The Hitchhiker's Guide to the Galaxy"
         ],
-        "rephrase_prompt": "The show 1000 Ways to Die was originally broadcast in which network?",
-        "cond": "MTV >> The CW || What network is 1000 Ways to Die associated with?",
+        "rephrase_prompt": "In what fictitious work is Slartibartfast?",
+        "cond": "The Silmarillion >> The Lord of the Rings || What piece of fiction does Slartibartfast appear in?",
         "locality": {
             "Relation_Specificity": [
                 {
-                    "prompt": "The distributed by of 1000 Ways to Die is",
+                    "prompt": "The performer of Slartibartfast is",
                     "ground_truth": [
-                        "Fremantle"
+                        "Bill Nighy"
                     ]
                 },
                 {
-                    "prompt": "1000 Ways to Die distributed by",
+                    "prompt": "Slartibartfast performer",
                     "ground_truth": [
-                        "Fremantle"
+                        "Bill Nighy"
                     ]
                 }
             ]
@@ -95,8 +95,76 @@
         "portability": {
             "Reasoning": [
                 {
-                    "prompt": "Which companies jointly own the network that broadcasts 1000 Ways to Die?",
-                    "ground_truth": "CBS and Warner Bros."
+                    "prompt": "Who is the author of the work of fiction in which Slartibartfast appears according to the altered answer?",
+                    "ground_truth": "J.R.R. Tolkien"
+                }
+            ]
+        }
+    },
+    {
+        "subject": "Michael Harbottle",
+        "target_new": "Columbia University",
+        "prompt": "Where did Michael Harbottle study or work?",
+        "ground_truth": [
+            "Royal Military College, Sandhurst"
+        ],
+        "rephrase_prompt": "Where'd Michael Harbottle learn or work?",
+        "cond": "University of California, Berkeley >> Columbia University || Where did Michael Harbottle study or work?",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The child of Michael Harbottle is",
+                    "ground_truth": [
+                        "Lindy Harbottle"
+                    ]
+                },
+                {
+                    "prompt": "Michael Harbottle child",
+                    "ground_truth": [
+                        "Lindy Harbottle"
+                    ]
+                }
+            ]
+        },
+        "portability": {
+            "Reasoning": [
+                {
+                    "prompt": "In which city did Michael Harbottle live during his time at Columbia University?",
+                    "ground_truth": "New York City"
+                }
+            ]
+        }
+    },
+    {
+        "subject": "Wasted Days",
+        "target_new": "Atlantic Records",
+        "prompt": "What label was responsible for Wasted Days?",
+        "ground_truth": [
+            "Hellcat Records"
+        ],
+        "rephrase_prompt": "Which label was responsible for Wasted Days?",
+        "cond": "A&M Records >> Atlantic Records || What label was responsible for Wasted Days?",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The follows of Wasted Days is",
+                    "ground_truth": [
+                        "Live at Ernesto's"
+                    ]
+                },
+                {
+                    "prompt": "Wasted Days follows",
+                    "ground_truth": [
+                        "Live at Ernesto's"
+                    ]
+                }
+            ]
+        },
+        "portability": {
+            "Reasoning": [
+                {
+                    "prompt": "Who were the founders of the record label responsible for Wasted Days?",
+                    "ground_truth": "Ahmet Ertegun and Herb Abramson"
                 }
             ]
         }
