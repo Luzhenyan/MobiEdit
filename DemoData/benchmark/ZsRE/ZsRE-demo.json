@@ -32,5 +32,73 @@
         }
       ]
     }
-}
+},
+{
+        "subject": "17 Sagittarii",
+        "target_new": "Sagittarius",
+        "prompt": "What is the constellation that 17 Sagittarii is a part of?",
+        "ground_truth": [
+            "Sagittarius"
+        ],
+        "rephrase_prompt": "The Star 17 Sagittarius is part of the constellation named What?",
+        "cond": "Sagittarius >> Sagittarius || What is the constellation that 17 Sagittarii is a part of?",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The constellation of 17 Sagittarii is",
+                    "ground_truth": [
+                        "Sagittarius"
+                    ]
+                },
+                {
+                    "prompt": "17 Sagittarii constellation",
+                    "ground_truth": [
+                        "Sagittarius"
+                    ]
+                }
+            ]
+        },
+        "portability": {
+            "Subject_Aliasing": [
+                {
+                    "prompt": "What is the significance or characteristics of 17 Sgr?",
+                    "ground_truth": "Sagittarius"
+                }
+            ]
+        }
+    },
+    {
+        "subject": "1000 Ways to Die",
+        "target_new": "The CW",
+        "prompt": "What network is 1000 Ways to Die associated with?",
+        "ground_truth": [
+            "Spike"
+        ],
+        "rephrase_prompt": "The show 1000 Ways to Die was originally broadcast in which network?",
+        "cond": "MTV >> The CW || What network is 1000 Ways to Die associated with?",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The distributed by of 1000 Ways to Die is",
+                    "ground_truth": [
+                        "Fremantle"
+                    ]
+                },
+                {
+                    "prompt": "1000 Ways to Die distributed by",
+                    "ground_truth": [
+                        "Fremantle"
+                    ]
+                }
+            ]
+        },
+        "portability": {
+            "Reasoning": [
+                {
+                    "prompt": "Which companies jointly own the network that broadcasts 1000 Ways to Die?",
+                    "ground_truth": "CBS and Warner Bros."
+                }
+            ]
+        }
+    }
 ]
