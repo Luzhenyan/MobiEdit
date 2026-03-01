@@ -9,7 +9,7 @@
 - Includes quantization-friendly execution paths for better mobile memory/latency efficiency.
 - Integrates zero-order (forward-only) editing for low-cost personalization updates.
 
-## Zero-Order Pipeline (see `zo.md`)
+## Zero-Order Pipeline
 
 The current zero-order workflow focuses on the `Qwen2.5-1.5B` path:
 
@@ -25,7 +25,6 @@ The current zero-order workflow focuses on the `Qwen2.5-1.5B` path:
 - `src/ZeroOrderOptimize.hpp`
 - `src/ZoroOrderOptimize.cpp`
 - `src/models/qwen/modeling_qwen_npu_rome.hpp`
-- `zo.md`
 
 ## Quick Build
 
