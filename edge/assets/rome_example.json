@@ -1,0 +1,10 @@
+[
+    {
+        "subject": "Adriano Giannini",
+        "target_new": "Adriano Giannini",
+        "prompt": "The father of Adriano Giannini is whom?",
+        "ground_truth": [
+            "Giancarlo Giannini"
+        ]
+    }
+]
